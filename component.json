@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-datepicker",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "main": ["./js/bootstrap-datepicker.js","./css/datepicker.css"],
   "dependencies": {
   }
